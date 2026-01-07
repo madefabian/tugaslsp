@@ -7,11 +7,20 @@ Website company profile sederhana yang berisi informasi singkat tentang perusaha
 ## 🚀 Fitur
 
 Halaman Beranda (Home)
+
 Halaman Profil Perusahaan (Tentang Kami)
+
 Informasi Layanan / Jasa
+
 Halaman Kontak
+
 Informasi Alamat & Jam Operasional
+
+Desain Responsif (Mobile & Desktop)
+
 Navigasi Sederhana & Mudah Digunakan
+
+Tampilan UI Simpel & Bersih
 
 ---
 
